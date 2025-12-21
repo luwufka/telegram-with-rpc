@@ -24,7 +24,7 @@ This is a rather unusual method I came up with :/
 
 # Installation Guide
 
-## Standard Setup
+## Standart Setup
 
 1. Make sure you have [Python](https://www.python.org) installed.
 2. Install dependencies: `pip install -r ./src/requirements.txt`
