@@ -38,7 +38,7 @@ TELEGRAM_CHAT_ID = <Channel ID>
 5. **Run: `python ./src/.`**
 
 ## Установка в Docker
-1. **Соберите образ: `docker build -t telegram-rpc .`**
+1. **Соберите образ: `docker build -t telegram-with-rpc .`**
 2. Создайте контейнер, установите все необходимые переменные окружения:
 ```
 DISCORD_TOKEN = <Bot Token>
