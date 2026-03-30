@@ -41,7 +41,7 @@ TELEGRAM_CHAT_ID = <Channel ID>
 5. **Run: `python ./src/.`**
 
 ## Docker Setup
-1. **Build the image: `docker build -t tg-rpc .`**
+1. **Build the image: `docker build -t telegram-with-rpc .`**
 2. Create a container and set all necessary environment variables:
 
 ```
